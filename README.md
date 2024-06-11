@@ -44,7 +44,6 @@ Cardfiy is an innovative application designed to create, edit, and share electro
 
 
 Watch the demo video below to see how to use the app:
-[![🎥 Demo Video🎥](https://img.shields.io/badge/Demo%20Video-Watch-blue)](https://github.com/zinab1991/DefEd-Academy.swiftpm/raw/main/DefED.mp4)
 
 [![🎥 Demo Video🎥](https://img.shields.io/badge/Demo%20Video-Watch-blue)](https://github.com/zinab1991/Cardify/raw/main/record%20ch4.2.mov) 
 
