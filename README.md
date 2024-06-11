@@ -48,7 +48,7 @@ Watch the demo video below to see how to use the app:
 
 [![🎥 Demo Video🎥](https://img.shields.io/badge/Demo%20Video-Watch-blue)](https://github.com/zinab1991/Cardify/raw/main/record%20ch4.2.mov) 
 
-[![🎥 Demo Video2](https://img.shields.io/badge/Demo%20Video-Watch-blue)](https://github.com/zinab1991/Cardify/commit/cbcaacd190bed723ff48b004a170ec3cbf97191f)
+[![🎥 Demo Video2](https://img.shields.io/badge/Demo%20Video-Watch-blue)](https://github.com/zinab1991/Cardify/raw/main/record%20ch4.3.mov)
 
 
 ---
