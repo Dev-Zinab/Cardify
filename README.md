@@ -36,7 +36,7 @@ Cardfiy is an innovative application designed to create, edit, and share electro
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/zinab1991/Cardify/tree/main
+   git clone https://github.com/Dev-Zinab/Cardify/tree/main
 
 ---
 
